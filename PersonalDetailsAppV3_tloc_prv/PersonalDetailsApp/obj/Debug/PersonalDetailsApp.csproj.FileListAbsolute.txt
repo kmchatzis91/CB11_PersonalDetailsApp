@@ -1,0 +1,28 @@
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe.config
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe.config
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\Exercises I need to do\4. Personal Details Project\Project_PD\PersonalDetailsApp\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe.config
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\Exercises I need to do\2. Personal Details Project\Project_PD\PersonalDetailsAppV2\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe.config
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\bin\Debug\PersonalDetailsApp.pdb
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.exe
+C:\Users\kmcha\Desktop\PersonalDetailsAppV3_tloc_prv\PersonalDetailsApp\obj\Debug\PersonalDetailsApp.pdb
